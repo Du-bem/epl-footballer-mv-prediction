@@ -1,0 +1,20 @@
+# Data
+*.csv
+*.xlsx
+*.parquet
+thesis_dataset/
+
+# Models
+*.pkl
+*.joblib
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Images
+*.png
+*.jpg
+
+# System files
+.DS_Store
+Thumbs.db
